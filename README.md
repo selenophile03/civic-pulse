@@ -6,14 +6,7 @@ Built completely with **Vanilla JavaScript**, **Tailwind CSS**, and **Chart.js**
 
 ---
 
-## ✨ Features
 
-- **📊 Visual Voting Breakdowns:** Uses a dynamic `Chart.js` doughnut chart wrapper to instantly render real-time calculations of affirmative, negative, and abstaining actions.
-- **⚡ Reactive Filtering:** Toggle voting rosters immediately by stance (*All*, *Yes*, *No*) without executing fresh database calls.
-- **📜 Transparent Explanations:** Displays direct, contextual reasoning profiles for every representative's choice to strip away political spin.
-- **⚙️ Serverless Static Architecture:** Pulls configurations securely from clean JSON structures, making it entirely compatible with static hosting environments.
-
----
 
 ## 📂 Repository Architecture
 
