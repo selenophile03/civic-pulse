@@ -1,0 +1,12 @@
+{
+  "billName": "H.R. 842 - The Renewable Local Energy Incentives Act",
+  "summary": "This bill allocates state grants to local municipalities to subsidize solar panels, wind turbine installations, and energy efficiency upgrades for residential homes.",
+  "votes": [
+    { "name": "Elena Rostova", "party": "Independent", "vote": "Yes", "reason": "Brings clean energy jobs to our local district." },
+    { "name": "Marcus Vance", "party": "Democrat", "vote": "Yes", "reason": "Crucial step forward in meeting our climate action goals." },
+    { "name": "Sarah Jenkins", "party": "Republican", "vote": "No", "reason": "Concerned about the long-term tax impact on small businesses." },
+    { "name": "David Chen", "party": "Democrat", "vote": "Yes", "reason": "Reduces household energy utility bills immediately." },
+    { "name": "Amina Touré", "party": "Republican", "vote": "Abstain", "reason": "Waiting on a revised fiscal impact study report." },
+    { "name": "John Mercer", "party": "Republican", "vote": "No", "reason": "Prefers private market investments over government grants." }
+  ]
+}
