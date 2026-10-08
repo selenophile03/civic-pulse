@@ -1,14 +1,13 @@
-// Global memory state storage
 let localVoteData = [];
 
-// Initialize and pull dataset on screen compile
+
 document.addEventListener("DOMContentLoaded", () => {
     fetch('data/votes.json')
         .then(response => response.json())
         .then(data => {
             localVoteData = data.votes;
             
-            // Populate basic content UI blocks
+           
             document.getElementById('bill-title').innerText = data.billName;
             document.getElementById('bill-summary').innerText = data.summary;
             
